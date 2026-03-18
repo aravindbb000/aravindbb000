@@ -14,18 +14,10 @@ I'm a Data & Machine Learning Engineer focused on Data Science, DevOps, Data Ana
 * Implemented a **CollisionDetector module** computing Time-To-Collision (TTC).
 * Evaluated real-time performance with microsecond-level latency.
 
----
-
-### 2. Last-Mile Delivery Analytics Pipeline (BigQuery + dbt)
-
-* Built an analytics pipeline by loading raw delivery CSV data into BigQuery.
-* Transformed data using dbt staging and fact models.
-* Developed KPI tables using modular SQL and dbt `ref()`.
-* Used Python-based validation for reliable BI reporting.
 
 ---
 
-### 3. Energy Consumption Data Analysis Using SQL
+### 2. Energy Consumption Data Analysis Using SQL
 
 * Analyzed large-scale energy data using advanced SQL (CTEs, window functions, joins).
 * Optimized queries for performance.
@@ -33,7 +25,7 @@ I'm a Data & Machine Learning Engineer focused on Data Science, DevOps, Data Ana
 
 ---
 
-### 4. Warehouse Supply Chain Time Series Forecasting
+### 3. Warehouse Supply Chain Time Series Forecasting
 
 * Forecasted product demand using time series models.
 * Improved inventory planning and reduced stockouts.
@@ -41,7 +33,7 @@ I'm a Data & Machine Learning Engineer focused on Data Science, DevOps, Data Ana
 
 ---
 
-### 5. Warehouse Management Shoe Data Analysis
+### 4. Warehouse Management Shoe Data Analysis
 
 * Performed exploratory data analysis on warehouse shoe demand.
 * Identified category-wise demand patterns.
@@ -49,7 +41,7 @@ I'm a Data & Machine Learning Engineer focused on Data Science, DevOps, Data Ana
 
 ---
 
-### 6. Python Customer Segmentation & Clustering
+### 5. Python Customer Segmentation & Clustering
 
 * Applied **KMeans clustering** for customer segmentation.
 * Performed univariate, bivariate, and multivariate analysis.
@@ -57,7 +49,7 @@ I'm a Data & Machine Learning Engineer focused on Data Science, DevOps, Data Ana
 
 ---
 
-### 7. Indian Premier League (IPL) Data Analysis
+### 6. Indian Premier League (IPL) Data Analysis
 
 * Conducted comprehensive analysis of IPL 2022 dataset.
 * Performed data cleaning and exploratory analysis.
