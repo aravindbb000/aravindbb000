@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm Aravind R
+# ⚡ Hi, I'm Aravind Raveendran
 
 ### **Data Scientist | Machine Learning Engineer | Financial Analyst**  
 *Applying Computational Mathematics, Pricing Analytics, and Scalable AI to Solve Real-World Problems*
