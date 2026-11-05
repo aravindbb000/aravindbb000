@@ -22,7 +22,7 @@
 
 <!-- Interactive Jump Navigation -->
 <p>
-  <a href="#-about-me"><b>[⚡ About Me]</b></a> &nbsp;•&nbsp;
+  <a href="#-about-me"><b>⚡ About Me</b></a> &nbsp;•&nbsp;
   <a href="#-hackathons--events"><b>[🏆 Hackathons & Events]</b></a> &nbsp;•&nbsp;
   <a href="#-my-projects"><b>[🚀 My Projects]</b></a> &nbsp;•&nbsp;
   <a href="#-tech-stack--tools"><b>[🛠️ Tech Toolkit]</b></a> &nbsp;•&nbsp;
