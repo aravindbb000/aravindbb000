@@ -2,7 +2,7 @@
 
 # ⚡ Hi, I'm Aravind R
 
-### **Data Scientist & Machine Learning Engineer**  
+### **Data Scientist | Machine Learning Engineer | Financial Analyst**  
 *Applying Computational Mathematics, Pricing Analytics, and Scalable AI to Solve Real-World Problems*
 
 <!-- Dynamic Animated Neon Cyan Typing SVG Banner -->
