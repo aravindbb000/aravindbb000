@@ -1,3 +1,33 @@
+<div align="center">
+
+# ⚡ Hi, I'm Aravind R
+
+### **Data Scientist & Machine Learning Engineer**  
+*Applying Computational Mathematics, Pricing Analytics, and Scalable AI to Solve Real-World Problems*
+
+<!-- Dynamic Animated Neon Cyan Typing SVG Banner -->
+<a href="https://github.com/your-username">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=620&lines=Data+Science+%26+Machine+Learning+Engineer;M.Sc.+Computational+Mathematics+%7C+Univ.+Passau;Pricing+Analytics+%26+Predictive+Modelling;Autonomous+Agents+%26+Computer+Vision" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Interactive Quick Contact Badges -->
+<p>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_To_Work-Active-10b981?style=for-the-badge" />
+</p>
+
+<!-- Interactive Jump Navigation -->
+<p>
+  <a href="#-about-me"><b>[⚡ About Me]</b></a> &nbsp;•&nbsp;
+  <a href="#-hackathons--events"><b>[🏆 Hackathons & Events]</b></a> &nbsp;•&nbsp;
+  <a href="#-my-projects"><b>[🚀 My Projects]</b></a> &nbsp;•&nbsp;
+  <a href="#-tech-stack--tools"><b>[🛠️ Tech Toolkit]</b></a> &nbsp;•&nbsp;
+  <a href="#-activity--analytics"><b>[📊 Analytics]</b></a>
+</p>
 
 ---
 
@@ -5,254 +35,307 @@
 
 ## 💡 About Me
 
-> **"Transforming high-dimensional data, mathematical theory, and complex systems into actionable intelligence."**
-
-- 🎓 **Education**: 
-  - **M.Sc. in Computational Mathematics** — *University of Passau, Germany* (Specialization: Data Science & Machine Learning).
-  - **B.Sc. in Mathematics** — *Mahatma Gandhi University, India* (**Ranked 8th** in program; strong foundation in statistical modeling & analytical thinking).
-- 💼 **Industry Experience**: 
-  - **Hepster** — *Working Student & former Pricing Analyst Intern*: Driving pricing analytics, quantitative business intelligence, automated KPI reporting, and model optimization using Python and SQL.
-- 🔬 **Research & Thesis**: 
-  - Converted asynchronous neuromorphic event camera streams into frame representations for self-supervised pose estimation via deep learning (ResNet), achieving **18% lower RMSE**.
-- 🎯 **What I Aim To Become**: 
-  - Data Scientist applying mathematical modeling, machine learning, and predictive analytics to solve strategic challenges across pricing optimization, financial analytics, and intelligent systems.
-- 🌍 **Open To**: 
-  - `Data Scientist` • `Machine Learning Engineer` • `Pricing & Quantitative Analyst` • `Data Analyst` • `Research Assistant`
+> I am a **Data Scientist and Machine Learning Engineer** with a strong mathematical foundation, holding an **M.Sc. in Computational Mathematics** from the *University of Passau* and a **B.Sc. in Mathematics** (*Ranked 8th* at Mahatma Gandhi University). Professionally, I work as a **Pricing Analyst at Hepster**, where I build automated reporting pipelines, quantitative pricing models, and business intelligence solutions using Python and SQL. My Master's thesis centered on self-supervised deep learning for neuromorphic event-based camera data, achieving an **18% lower RMSE**.
+> 
+> 🎯 **Open to roles:** `Data Scientist` • `Machine Learning Engineer` • `Pricing & Quantitative Analyst` • `Data Analyst` • `Research Assistant`
 
 ---
 
-## 🏆 Hackathons & Events
+## 🏆 HACKATHONS & EVENTS
 
-<div align="center">
-<i>A showcase of high-intensity engineering challenges, industry visits, and continuous learning.</i>
+<div align="left">
+  <img src="https://via.placeholder.com/150x3/00ADB5/00ADB5.png" alt="line" width="150" height="3" />
 </div>
 <br/>
 
-<table>
-  <thead>
-    <tr>
-      <th width="20%">Timeline / Event</th>
-      <th width="35%">Role & Organization</th>
-      <th width="45%">Focus & Achievement</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>2026</code><br/><b>Black Forest Hackathon</b></td>
-      <td><b>DRAWING2CAD</b><br/><i>BCT Technology AG</i></td>
-      <td>Explored AI-based conversion of 2D engineering drawings into structured 3D CAD models using MCP and CadQuery.</td>
-    </tr>
-    <tr>
-      <td><code>JUN 2026</code><br/><b>TUM Science Hackathon 2026</b></td>
-      <td><b>Alpine Route Forecasting</b><br/><i>Die Autobahn GmbH des Bundes</i></td>
-      <td>Developed an explainable ML pipeline and agentic forecasting framework for traffic and congestion on Alpine routes.</td>
-    </tr>
-    <tr>
-      <td><code>INDUSTRY VISIT</code><br/><b>Die Autobahn Industrial Visit</b></td>
-      <td><b>Traffic & Operations Center (VBZ)</b><br/><i>Die Autobahn GmbH des Bundes</i></td>
-      <td>Explored real-world highway traffic telemetry collection, operational infrastructure, and discussed AI solutions with engineers.</td>
-    </tr>
-    <tr>
-      <td><code>2026</code><br/><b>Climate Week Hackathon 2026</b></td>
-      <td><b>Wind Energy Challenge</b><br/><i>BayWa r.e.</i></td>
-      <td>Explored wind farm communication outages, reconstructing missing wind telemetry and quantifying financial energy losses.</td>
-    </tr>
-    <tr>
-      <td><code>2025</code><br/><b>IBM Z Day 2025</b></td>
-      <td><b>AI and Data</b><br/><i>IBM</i></td>
-      <td>Explored enterprise-scale AI, data analytics, hybrid cloud platforms, and resilient, high-throughput data workloads.</td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-<sub><code>HACKATHONS</code> • <code>INDUSTRY EXPOSURE</code> • <code>INNOVATION</code> • <code>CONTINUOUS LEARNING</code></sub>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-<i>Technologies, models, and mathematical frameworks I use to turn raw data into insights.</i>
-</div>
-<br/>
-
-<table>
+<!-- 2-Column Boxed Cards matching Screenshot 1 -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 01 / Programming Languages</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <h4>🧠 02 / Machine Learning & Deep Learning</h4>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow*-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <br/><sub><i>*Basic familiarity</i></sub>
-      </p>
-      <h4>📊 03 / Data Visualization & BI</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
-        <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square" />
-      </p>
+      <img src="https://img.shields.io/badge/2026-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Black Forest Hackathon</font></b><br/>
+      <b><font color="#38bdf8">DRAWING2CAD · BCT Technology AG</font></b>
+      <br/><br/>
+      Explored AI-based conversion of 2D engineering drawings into 3D CAD models.
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 04 / Data Analysis & Manipulation</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </p>
-      <h4>⚙️ 05 / Engineering & DevOps</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP_BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </p>
-      <h4>📐 06 / Mathematical Foundations</h4>
-      <p>
-        <code>Statistics</code> • <code>Probability Theory</code> • <code>Predictive Modelling</code> • <code>Actuarial Risk Modeling</code>
-      </p>
+      <img src="https://img.shields.io/badge/JUN_2026-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">TUM Science Hackathon 2026</font></b><br/>
+      <b><font color="#38bdf8">Die Autobahn GmbH des Bundes</font></b>
+      <br/><br/>
+      Developed an explainable ML pipeline for traffic and congestion forecasting on Alpine routes.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/INDUSTRY_VISIT-10b981?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Die Autobahn Industrial Visit</font></b><br/>
+      <b><font color="#38bdf8">Traffic & Operations Center (VBZ)</font></b>
+      <br/><br/>
+      Explored real-world traffic data collection and management and discussed our solution with experts.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/2026-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Climate Week Hackathon 2026</font></b><br/>
+      <b><font color="#38bdf8">BayWa r.e. · Wind Energy Challenge</font></b>
+      <br/><br/>
+      Explored wind farm communication failures and estimation of missing wind speeds and energy losses.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://img.shields.io/badge/2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">IBM Z Day 2025 – AI and Data</font></b><br/>
+      <b><font color="#38bdf8">IBM</font></b>
+      <br/><br/>
+      Explored enterprise AI, data analytics, hybrid cloud platforms and secure, scalable data workloads.
     </td>
   </tr>
 </table>
 
-<details>
-<summary><b>🧩 07 / Machine Learning Models & Algorithms (Click to expand)</b></summary>
-<br/>
-
-| Category | Methods & Algorithms |
-|:---|:---|
-| **Supervised Learning** | Linear Regression, Random Forest, Support Vector Machines (SVM), XGBoost, LightGBM |
-| **Forecasting & Time Series** | Time Series Decomposition, SARIMA, Sales Forecasting, Highway Traffic Demand Forecasting |
-| **NLP & Deep Learning** | Sentiment Analysis, Text Classification, Event Camera Processing, CNNs / ResNet, LLM Agent Workflows (RAG) |
-| **Evaluation & Optimization** | Cross-Validation, Hyperparameter Tuning, Ensemble Learning, Loss Ratio, VaR, RMSE & MAPE |
-
-</details>
+<div align="center">
+  <sub><code>HACKATHONS</code> • <code>INDUSTRY EXPOSURE</code> • <code>INNOVATION</code> • <code>CONTINUOUS LEARNING</code></sub>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 MY PROJECTS
 
-<div align="center">
-<i>A curated selection of machine learning architectures, analytics pipelines, and quantitative models. Click on any project card to reveal the engineering details.</i>
+<div align="left">
+  <img src="https://via.placeholder.com/150x3/00ADB5/00ADB5.png" alt="line" width="150" height="3" />
+  <br/>
+  <sub><i>Machine Learning · Data Science · Analytics · Mathematical Modelling</i></sub>
 </div>
 <br/>
 
-<!-- Project 1 -->
-<details open>
-<summary><b>1. BayWa r.e. Wind Farm Outage Analysis & Energy Loss Estimation</b> <code>WATT THE HACK 2026</code></summary>
-
-> **Tech Stack:** `Python` • `LightGBM` • `XGBoost` • `SARIMA` • `Flask` • `Turbine Power Curves`
-
-- Developed a Flask web application during the energy challenge to reconstruct missing wind-speed data and estimate potential financial & energy losses using turbine power curves.
-- Implemented chronological validation and model selection benchmarks (LightGBM, Random Forest, XGBoost, SARIMA) alongside explainability metrics and interactive insurance loss reporting.
-</details>
-
-<!-- Project 2 -->
-<details>
-<summary><b>2. Drawing2CAD: AI-Powered 2D-to-3D CAD Reconstruction</b> <code>Black Forest Hackathon 2026</code></summary>
-
-> **Tech Stack:** `Python` • `CadQuery` • `C#` • `.NET` • `MCP (Model Context Protocol)` • `Docker`
-
-- Built an AI-powered prototype during the **BCT Technology AG** challenge transforming 2D technical drawings into structured 3D CAD models.
-- Implemented a local Docker-based Model Context Protocol (MCP) workflow for drawing interpretation, parametric geometry generation, model validation, and automated STEP file export with review flags for ambiguous dimensions.
-</details>
-
-<!-- Project 3 -->
-<details>
-<summary><b>3. Automated Traffic Forecasting for Alpine Holiday Corridors</b> <code>TUM Science Hackathon 2026</code></summary>
-
-> **Tech Stack:** `Python` • `Autonomous AI Agents` • `RAG` • `Time Series` • `Prompt Engineering`
-
-- Built an agentic AI forecasting system in collaboration with **Die Autobahn GmbH des Bundes** and **TUM Science** utilizing real-world traffic time-series telemetry.
-- Engineered features across holiday congestion bottlenecks, incorporating Retrieval-Augmented Generation (RAG) and autonomous agents to provide real-time explainable forecasts to highway traffic dispatchers.
-</details>
-
-<!-- Project 4 -->
-<details>
-<summary><b>4. Enhancing Event Camera Data via Deep Learning</b> <code>Master's Thesis • 18% Lower RMSE</code></summary>
-
-> **Tech Stack:** `Python` • `PyTorch` • `ResNet` • `Computer Vision` • `Event Cameras`
-
-- Researched the transformation of asynchronous event-based neuromorphic sensor streams into structured frame representations for self-supervised pose estimation.
-- Evaluated performance against benchmark representations, demonstrating an **18% lower RMSE** on high-speed motion datasets.
-</details>
-
-<!-- Project 5 -->
-<details>
-<summary><b>5. Embedded Collision Risk Simulation in C++</b> <code>Real-Time C++ • Microsecond Latency</code></summary>
-
-> **Tech Stack:** `C++` • `CMake` • `Docker` • `Linux` • `Sensor Calibration`
-
-- Simulated camera sensor object detections using structured event streams with a modular, highly performant C++ architecture.
-- Designed a reproducible Linux workflow via CMake and containerized with Docker; implemented a `CollisionDetector` module computing Time-To-Collision (TTC) with microsecond-level latency.
-</details>
-
-<!-- Project 6 -->
-<details>
-<summary><b>6. Motor Insurance Pricing Simulation & Actuarial Modeling in R</b></summary>
-
-> **Tech Stack:** `R` • `Generalized Linear Models (GLM)` • `Actuarial Risk Metrics` • `Portfolio Segmentation`
-
-- Simulated a synthetic motor insurance portfolio in R and evaluated profitability metrics (loss ratio, value-at-risk, portfolio risk exposure).
-- Applied Generalized Linear Models (GLMs) to model claim frequencies, quantify underlying risk factors, and isolate underpriced and high-risk customer segments to inform data-driven pricing strategies.
-</details>
-
-<!-- Project 7 -->
-<details>
-<summary><b>7. Last-Mile Delivery Analytics Engineering Pipeline</b> <code>GCP + dbt</code></summary>
-
-> **Tech Stack:** `Google Cloud BigQuery` • `dbt` • `SQL` • `Python` • `Data Modeling`
-
-- Engineered an end-to-end analytics engineering pipeline by loading raw last-mile logistics datasets into Google Cloud BigQuery and transforming them via modular dbt staging and fact tables.
-- Implemented robust `dbt ref()` dependencies, data contracts, and automated Python validation suites to produce analytics-ready KPI models for BI consumption.
-</details>
-
-<!-- Project 8 -->
-<details>
-<summary><b>8. Warehouse Supply Chain & Shoe Demand Time Series Forecasting</b></summary>
-
-> **Tech Stack:** `Python` • `Time Series` • `XGBoost` • `Inventory Planning` • `MAPE & RMSE`
-
-- Forecasted regional SKU-level product demand to optimize warehouse inventory replenishment and prevent stockouts.
-- Evaluated forecast fidelity against baseline seasonal indicators with MAPE and RMSE, driving actionable inventory reorder thresholds.
-</details>
-
-<!-- Project 9 -->
-<details>
-<summary><b>9. Enterprise Energy Consumption Analysis Using SQL</b></summary>
-
-> **Tech Stack:** `Advanced SQL` • `CTEs & Window Functions` • `Data Optimization` • `Power BI`
-
-- Queried and synthesized large-scale power consumption datasets to isolate peak demand spikes, seasonal base loads, and cost volatility patterns.
-- Formulated optimized SQL queries (multi-level CTEs, analytical window functions) to feed interactive dashboards for energy procurement optimization.
-</details>
-
-<!-- Project 10 -->
-<details>
-<summary><b>10. Customer Segmentation Using Multivariate K-Means</b></summary>
-
-> **Tech Stack:** `Python` • `Scikit-Learn` • `K-Means Clustering` • `Seaborn` • `EDA`
-
-- Clustered multi-dimensional customer behavioral data using univariate and multivariate K-Means clustering.
-- Profiled distinct purchasing segments to guide targeted marketing campaigns and enhance customer lifetime value (LTV).
-</details>
+<!-- 2-Column Boxed Cards matching Screenshot 2 -->
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/JUN_2026-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Alpine Traffic Forecasting</font></b><br/>
+      <b><font color="#38bdf8">TUM Science Hackathon · Die Autobahn</font></b>
+      <br/><br/>
+      Developed ML models for traffic forecasting and congestion analysis during a 50-hour hackathon.
+      <br/><br/>
+      <kbd>MACHINE LEARNING</kbd> <kbd>FORECASTING</kbd> <kbd>PYTHON</kbd>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/OCT_2024_--_NOV_2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/18%25_LOWER_RMSE-10b981?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Enhancing Event Camera Data</font></b><br/>
+      <b><font color="#38bdf8">Universität Passau</font></b>
+      <br/><br/>
+      Built Python pipelines to transform event streams into structured images. Achieved 18% lower RMSE.
+      <br/><br/>
+      <kbd>PYTHON</kbd> <kbd>DEEP LEARNING</kbd> <kbd>COMPUTER VISION</kbd>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AUG_2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/92%25_ACCURACY-10b981?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Adidas Sales Forecasting</font></b><br/>
+      <b><font color="#38bdf8">Regional Sales & Demand Prediction</font></b>
+      <br/><br/>
+      Applied EDA, feature engineering and model tuning. Created Power BI dashboards for inventory planning.
+      <br/><br/>
+      <kbd>PYTHON</kbd> <kbd>XGBOOST</kbd> <kbd>RANDOM FOREST</kbd> <kbd>POWER BI</kbd>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Warehouse SQL Project</font></b><br/>
+      <b><font color="#38bdf8">Customer & Sales Analytics</font></b>
+      <br/><br/>
+      Analyzed purchasing behaviour using complex SQL. Used CTEs, joins and window functions.
+      <br/><br/>
+      <kbd>SQL</kbd> <kbd>EXCEL</kbd> <kbd>DATA ANALYSIS</kbd>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/2026-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/WATT_THE_HACK-0284c7?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Wind Farm Outage & Loss Estimation</font></b><br/>
+      <b><font color="#38bdf8">BayWa r.e. · Energy Challenge</font></b>
+      <br/><br/>
+      Reconstructed wind telemetry and estimated energy loss using turbine power curves and ML models.
+      <br/><br/>
+      <kbd>PYTHON</kbd> <kbd>LIGHTGBM</kbd> <kbd>XGBOOST</kbd> <kbd>FLASK</kbd>
+    </td>
+    <!-- Project 6 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AUG_--_SEP_2024-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/92%25_ACCURACY-10b981?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Customer Review Sentiment Analysis</font></b><br/>
+      <b><font color="#38bdf8">Natural Language Processing</font></b>
+      <br/><br/>
+      Processed 5,000+ customer reviews using NLP. Classified positive, neutral and negative sentiments.
+      <br/><br/>
+      <kbd>PYTHON</kbd> <kbd>NLP</kbd> <kbd>MACHINE LEARNING</kbd>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 7 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/ACTUARIAL_GLM-6366f1?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Motor Insurance Pricing Simulation</font></b><br/>
+      <b><font color="#38bdf8">Actuarial Risk Modeling</font></b>
+      <br/><br/>
+      Simulated motor insurance portfolio in R. Built Generalized Linear Models (GLMs) to model claim frequencies.
+      <br/><br/>
+      <kbd>R</kbd> <kbd>GLM</kbd> <kbd>ACTUARIAL</kbd> <kbd>RISK ANALYSIS</kbd>
+    </td>
+    <!-- Project 8 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/REAL--TIME-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/MICROSECOND_TTC-10b981?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Embedded Collision Risk Simulation in C++</font></b><br/>
+      <b><font color="#38bdf8">Sensor Calibration & Optical Alignment</font></b>
+      <br/><br/>
+      Modular CollisionDetector computing Time-To-Collision (TTC) with microsecond latency using CMake & Docker.
+      <br/><br/>
+      <kbd>C++</kbd> <kbd>CMAKE</kbd> <kbd>DOCKER</kbd> <kbd>EVENT CAMERA</kbd>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 9 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/AUG_--_SEP_2024-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Energy Consumption Analysis</font></b><br/>
+      <b><font color="#38bdf8">Energy Data & Interactive Dashboard</font></b>
+      <br/><br/>
+      Analyzed household and industrial energy datasets. Visualized usage patterns and peak consumption.
+      <br/><br/>
+      <kbd>PYTHON</kbd> <kbd>PANDAS</kbd> <kbd>NUMPY</kbd> <kbd>SQL</kbd>
+    </td>
+    <!-- Project 10 -->
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/2025-00ADB5?style=for-the-badge&logoColor=white" height="20" />
+      <img align="right" src="https://img.shields.io/badge/GCP_+_DBT-f59e0b?style=for-the-badge&logoColor=white" height="20" />
+      <br/><br/>
+      <b><font size="3" color="#00ADB5">Last-Mile Delivery Analytics Pipeline</font></b><br/>
+      <b><font color="#38bdf8">Analytics Engineering</font></b>
+      <br/><br/>
+      Built BigQuery and dbt staging and fact data models with automated Python KPI validation.
+      <br/><br/>
+      <kbd>GCP</kbd> <kbd>BIGQUERY</kbd> <kbd>DBT</kbd> <kbd>SQL</kbd>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Metrics
+## 🛠️ TECH STACK & TOOLS
+
+<div align="left">
+  <sub><code>MY TOOLKIT / 01</code></sub><br/>
+  <img src="https://via.placeholder.com/150x3/00ADB5/00ADB5.png" alt="line" width="150" height="3" />
+  <br/>
+  <sub><i>Technologies, models and methods I use to turn data into insights.</i></sub>
+</div>
+<br/>
+
+<!-- Toolkit Grid matching Screenshot 3 -->
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <sub><code>01 / CODE</code> 🔵</sub>
+      <h4>Programming Languages</h4>
+      <kbd>Python</kbd> <kbd>R</kbd> <kbd>SQL</kbd> <kbd>C++</kbd> <kbd>JavaScript</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <sub><code>02 / FRAMEWORKS</code> 🔵</sub>
+      <h4>Machine Learning Tools</h4>
+      <kbd>Scikit-learn</kbd> <kbd>PyTorch</kbd> <kbd>TensorFlow*</kbd>
+      <br/><sub><i>*Basic familiarity</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub><code>03 / VISUALIZE</code> 🔵</sub>
+      <h4>Data Visualization</h4>
+      <kbd>Power BI</kbd> <kbd>Tableau</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><code>04 / ANALYZE</code> 🔵</sub>
+      <h4>Data Analysis & Tools</h4>
+      <kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>Excel</kbd> <kbd>Git</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <sub><code>05 / BUILD</code> 🔵</sub>
+      <h4>Web & Development</h4>
+      <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>GitHub</kbd> <kbd>Docker</kbd> <kbd>CMake</kbd> <kbd>dbt</kbd>
+    </td>
+    <td width="33%" valign="top">
+      <sub><code>06 / FOUNDATIONS</code> 🔵</sub>
+      <h4>Mathematical Skills</h4>
+      <kbd>Statistics</kbd> <kbd>Probability</kbd> <kbd>Predictive Modelling</kbd> <kbd>Actuarial Risk</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <sub><code>07 / MODEL BUILDING</code> 🔵</sub>
+      <h4>Machine Learning Models & Algorithms</h4>
+      <table width="100%">
+        <tr>
+          <td width="25%" valign="top">
+            <b><font color="#00ADB5">SUPERVISED LEARNING</font></b><br/>
+            • Linear Regression<br/>
+            • Random Forest<br/>
+            • Support Vector Machines<br/>
+            • XGBoost & LightGBM
+          </td>
+          <td width="25%" valign="top">
+            <b><font color="#00ADB5">FORECASTING</font></b><br/>
+            • Time Series Forecasting<br/>
+            • Sales Forecasting<br/>
+            • Traffic Demand Prediction<br/>
+            • SARIMA Models
+          </td>
+          <td width="25%" valign="top">
+            <b><font color="#00ADB5">NLP & DEEP LEARNING</font></b><br/>
+            • Sentiment Analysis<br/>
+            • Text Classification<br/>
+            • Event Camera Processing<br/>
+            • Deep CNNs & ResNet
+          </td>
+          <td width="25%" valign="top">
+            <b><font color="#00ADB5">EVALUATION & TUNING</font></b><br/>
+            • Cross-Validation<br/>
+            • Hyperparameter Tuning<br/>
+            • Ensemble Learning<br/>
+            • RMSE, MAPE & Loss Ratios
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Activity & Analytics
 
 <div align="center">
 
@@ -282,9 +365,5 @@ Whether you're interested in discussing **Data Science, Quantitative Pricing Mod
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![Email](https://img.shields.io/badge/Email-00ADB5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<br/>
-
-⭐️ *Thanks for stopping by! Feel free to explore my repositories and reach out.*
 
 </div>
